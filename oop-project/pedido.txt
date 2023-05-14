@@ -1,0 +1,6 @@
+Pedido: 
+La cantidad de items es: 1
+El tipo de pedido es: digital
+El precio del pedido es: 3
+La fecha de entrega del pedido es: 2
+

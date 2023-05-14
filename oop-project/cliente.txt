@@ -1,0 +1,8 @@
+Cliente: 
+El nombre del cliente es: Gama
+El apellido paterno del cliente es: Marines
+El apellido materno del cliente es: Olvera
+La edad del cliente es: 20
+La nacionalidad del cliente es: Mexicano
+La direccion del cliente es: 68_campos_eliseos
+

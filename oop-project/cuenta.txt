@@ -1,0 +1,4 @@
+Cuenta: 
+El id de la cuenta es: 1
+El estado de la cuenta es: 28
+
